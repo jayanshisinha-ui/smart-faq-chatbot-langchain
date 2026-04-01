@@ -120,9 +120,3 @@ What is Operating System?
 
 ---
 
-# 📸 Screenshots
-
-## 🖥️ Chatbot Interface
-
-(chatbot.png)
-
