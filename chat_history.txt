@@ -1,0 +1,12 @@
+You: what is python 
+Bot: Python is a high-level programming language known for its simplicity and readability. It is widely used in web development, data science, machine learning, and automation.
+
+You: what id dbms
+Bot: DBMS stands for Database Management System. It is software used to store, manage, and retrieve data efficiently.
+
+You: what is a process
+Bot: A process is a program that is currently being executed.
+
+You: what is http
+Bot: HTTP stands for HyperText Transfer Protocol used for web communication.
+
