@@ -1,0 +1,121 @@
+
+What is Python?
+Python is a high-level programming language known for its simplicity and readability. It is widely used in web development, data science, machine learning, and automation.
+
+What are variables in Python?
+Variables are containers used to store data values. In Python, variables do not need explicit declaration of data type.
+
+What is a list in Python?
+A list is a collection data type in Python that stores multiple items in a single variable. Lists are ordered and changeable.
+
+What is a function in Python?
+A function is a block of reusable code that performs a specific task. Functions help reduce repetition and improve code readability.
+
+What is Object-Oriented Programming (OOP)?
+Object-Oriented Programming is a programming paradigm based on objects and classes. It allows code reusability and modular programming.
+
+What is a class in Python?
+A class is a blueprint for creating objects. It defines properties (variables) and methods (functions).
+
+What is inheritance in Python?
+Inheritance allows one class to inherit properties and methods from another class. It promotes code reuse.
+
+What is exception handling?
+Exception handling is used to handle runtime errors using try and except blocks to prevent program crashes.
+
+What is HTML?
+HTML stands for HyperText Markup Language. It is used to create the structure of web pages.
+
+What is CSS?
+CSS stands for Cascading Style Sheets. It is used to style web pages, including layout, colors, and fonts.
+
+What is JavaScript?
+JavaScript is a scripting language used to make web pages interactive, such as adding animations and dynamic content.
+
+What is a database?
+A database is an organized collection of data that can be easily accessed, managed, and updated.
+
+What is DBMS?
+DBMS stands for Database Management System. It is software used to store, manage, and retrieve data efficiently.
+
+What is a primary key?
+A primary key is a unique identifier for each record in a database table.
+
+What is SQL?
+SQL stands for Structured Query Language. It is used to manage and manipulate databases.
+
+What is normalization in DBMS?
+Normalization is the process of organizing data to reduce redundancy and improve data integrity.
+
+What is machine learning?
+Machine learning is a branch of Artificial Intelligence that enables computers to learn from data and make predictions.
+
+What is Artificial Intelligence?
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that can think and learn.
+
+What is data science?
+Data science is the field of analyzing data to extract useful information using statistics and programming.
+
+What is an algorithm?
+An algorithm is a step-by-step procedure used to solve a problem or perform a task.
+
+
+What is a dictionary in Python?
+A dictionary is a data structure in Python that stores data in key-value pairs. It is unordered and changeable.
+
+What is tuple in Python?
+A tuple is an ordered collection of elements that cannot be modified after creation.
+
+What is lambda function in Python?
+A lambda function is a small anonymous function defined using the lambda keyword.
+
+What is recursion in Python?
+Recursion is a process where a function calls itself repeatedly until a base condition is met.
+
+What is file handling in Python?
+File handling allows programs to read and write data to files using functions like open(), read(), and write().
+
+What is multithreading?
+Multithreading allows multiple threads to run simultaneously within a program to improve performance.
+
+What is foreign key?
+A foreign key is a field in a table that links to the primary key of another table.
+
+What is join in SQL?
+A join is used to combine rows from two or more tables based on related columns.
+
+What is deadlock in operating system?
+Deadlock occurs when two or more processes wait indefinitely for resources held by each other.
+
+What is process in operating system?
+A process is a program that is currently being executed.
+
+What is computer network?
+A computer network is a group of interconnected devices that share data.
+
+What is IP address?
+An IP address is a unique identifier assigned to each device on a network.
+
+What is DNS?
+DNS stands for Domain Name System and converts domain names into IP addresses.
+
+What is HTTP?
+HTTP stands for HyperText Transfer Protocol used for web communication.
+
+What is responsive web design?
+Responsive web design ensures websites work on all screen sizes.
+
+What is frontend development?
+Frontend development focuses on designing the visual part of websites.
+
+What is backend development?
+Backend development manages server-side logic and databases.
+
+What is REST API?
+REST API is an interface that allows communication between systems using HTTP methods.
+
+What is supervised learning?
+Supervised learning is a machine learning technique using labeled data.
+
+What is neural network?
+A neural network is a model inspired by the human brain.
