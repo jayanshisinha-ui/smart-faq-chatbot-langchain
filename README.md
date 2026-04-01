@@ -13,15 +13,13 @@ The chatbot:
 - Uses **LangChain** for processing text
 - Uses **FAISS** for vector storage
 - Uses **HuggingFace embeddings**
-- Provides a **ChatGPT-style GUI**
 - Saves chat history automatically
 - Works **completely offline**
 
 ---
 
 # ✨ Features
-
-✅ ChatGPT-style GUI interface  
+ 
 ✅ Intelligent question answering  
 ✅ Offline functionality  
 ✅ Memory support (chat history saved)  
@@ -80,22 +78,6 @@ Then the chatbot window will open.
 
 ---
 
-# 🧠 How It Works
-
-1. Loads FAQ dataset  
-2. Splits text into smaller chunks  
-3. Converts text into embeddings  
-4. Stores vectors using FAISS  
-5. Matches user question  
-6. Returns most relevant answer  
-7. Saves conversation memory  
-
----
-
-# 💾 Memory Feature
-
-The chatbot stores conversations in:
-chat_history.txt
 
 
 Example:
